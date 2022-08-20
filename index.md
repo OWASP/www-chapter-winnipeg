@@ -9,7 +9,7 @@ meetup-group: owasp-winnipeg-chapter
 ---
 ## Welcome
 
-Welcome to the OWASP Winnipeg chapter! We’re excited to have a dedicated group of security professionals, developers, engieers, and enthusiasts, and we’d love to have you join us. All meetings are free, oriented towards knowledge sharing, practical learning, and having lots of fun!
+Welcome to the OWASP Winnipeg chapter! We’re excited to have a dedicated group of security professionals, developers, engieers and enthusiasts, and we’d love to have you join us. All meetings are free, oriented towards knowledge sharing, practical learning, and having lots of fun!
 
 Join our [Meetup Group](https://www.meetup.com/owasp-winnipeg-chapter/) All OWASP Winnipeg events are announced and tracked there.
 
@@ -22,17 +22,5 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Next Meeting/Event
 ---------------------
-{% comment %}
 {% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
 
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
