@@ -2,9 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Winnipeg
-tags: example-tag
+tags: WIN
 region: North America
-meetup-group:
+meetup-group: owasp-winnipeg-chapter
 
 ---
 
@@ -40,26 +40,11 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
-<!-- You should delete this comment
-
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
 ## Welcome
-Include some information here about your chapter
+
+Welcome to the OWASP Winnipeg chapter! We’re excited to have a dedicated group of security professionals and enthusiasts, and we’d love to have you join us. All meetings are free, oriented towards knowledge sharing, practical learning, and having lots of fun!
+
+Join our [Meetup Group](https://www.meetup.com/owasp-winnipeg-chapter/) All OWASP Winnipeg events are announced and tracked there.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
