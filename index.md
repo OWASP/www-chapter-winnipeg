@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Winnipeg
 tags: WIN
 region: North America
+country: Canada
 meetup-group: owasp-winnipeg-chapter
 
 ---
