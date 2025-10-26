@@ -1,0 +1,23 @@
+leaders:
+  - name: Subiramaniyan Ganesan
+    email: subiramaniyan.ganesan@owasp.org
+  - name: Jane Null
+    email: jane.null@owasp.org
+location:
+  country: Canada
+  country_code: CA
+  region: Manitoba
+  city: Winnipeg
+  latitude: 49.8955367
+  longitude: -97.1384584
+meetup_group: owasp-winnipeg-chapter
+name: OWASP Winnipeg
+repositories:
+  - name: www-chapter-winnipeg
+    url: https://github.com/OWASP/www-chapter-winnipeg
+    description: OWASP Foundation Web Repository
+tags:
+  - WIN
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-winnipeg
