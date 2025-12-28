@@ -1,5 +1,5 @@
 # Welcome to the OWASP Winnipeg GitHub page!
-OWASP (Open Web Application Security Project) is a global non-profit organization dedicated to improving software security. 
+OWASP (Open Worldwide Application Security Project) is a global non-profit organization dedicated to improving software security. 
 OWASP Winnipeg is a local chapter of OWASP dedicated to promoting software security awareness and knowledge sharing in the Winnipeg community.
 
 On this GitHub page, you will find resources and materials related to OWASP Winnipeg events, activities, and projects.
